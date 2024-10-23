@@ -22,7 +22,7 @@ return (number%modulo+modulo)%modulo;
 
 } 
 //웹사이트 링크 수정해야함
-const websiteLink="http://www.scsei.info/index.html";
+const websiteLink="https://ssei-sen.github.io/Seoulsciencepark.github.io/";
 const textFileDirectory="/textfiles"
 const audioFileDirectory="/mp3files"
 
